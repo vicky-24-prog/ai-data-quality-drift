@@ -1,0 +1,19 @@
+SK_ID_CURR:
+  type: int64
+  required: true
+
+AMT_INCOME_TOTAL:
+  type: float64
+  required: true
+
+AMT_CREDIT:
+  type: float64
+  required: true
+
+DAYS_BIRTH:
+  type: int64
+  required: true
+
+TARGET:
+  type: int64
+  required: false
